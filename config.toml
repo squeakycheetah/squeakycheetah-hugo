@@ -1,3 +1,18 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://squeakycheetah.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
+theme = "hugo-identity-theme"
+title = "Lyssa Dawson"
+
+[params]
+
+	avatar = "lyssa-av.png"
+
+	# Personal settings
+
+  name = "Lyssa Dawson"
+	position = "Geeky Rubber Cheetah"
+
+  [[params.social]]
+  title = "Twitter"
+  icon = "fa-twitter"
+  link = "squeakycheetah"
