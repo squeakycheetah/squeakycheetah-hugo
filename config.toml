@@ -16,4 +16,14 @@ title = "Lyssa Dawson"
   [[params.social]]
   title = "Twitter"
   icon = "fa-twitter"
-  link = "http://www.twitter.com/squeakycheetah"
+  link = "https://www.twitter.com/squeakycheetah"
+
+	[[params.social]]
+	title = "Github"
+	icon = "fa-github"
+	link = "https://github.com/squeakycheetah"
+
+	[[params.social]]
+	title = "keybase"
+	icon = "fa-key"
+	link = "https://keybase.io/squeakycheetah"
