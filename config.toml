@@ -1,11 +1,12 @@
-baseurl = "http://squeakycheetah.github.io"
+baseurl = "https://squeakycheetah.github.io"
 languageCode = "en-us"
-theme = "hugo-identity-theme"
+theme = "hugo-identity-theme-personal"
 title = "Lyssa Dawson"
 
 [params]
 
 	avatar = "lyssa-av.png"
+	background = "greenbackground.jpg"
 
 	# Personal settings
 
